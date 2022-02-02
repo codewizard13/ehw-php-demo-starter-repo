@@ -1,24 +1,22 @@
 <!--
-Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Project Name:   EHW CODE_LANG Demo: LONG_DEMO_NAME
 Main Prj File:  controller.php
 
 This Filename:  controller.php
 Date Created:   01/19/22
-Date Updated:   01/31/22
+Date Updated:   02/02/22
 Programmer:     Eric L. Hepperle
 
 File Version:    1.00.02
 
 Prj Purpose: 
-Web Scraper demo for testing slurping / web scraping
-with PHP cURL module. The demo grabs all images from
-a given search url for LinkedIn Learning courses. It
-then formats and displays all the images in a grid.
+Project purpose goes here.
 
 File Purpose:
 PHP Controller file for project.
 
 Usage:
+Usage goes here. Sample:
 Navigate to any video of an Upwork job posting page and paste the
 code from App.js into the browser developer console and hit enter to run.
 
@@ -26,7 +24,6 @@ Requires:
 * Browser navigated to an Upwork job posting page page
 * Web server supporting PHP 7.4
 * The project folder must live on a web server, local or remote.
-* Be logged into LinkedIn Learning
 
 Demonstrates:
 * PHP cURL
@@ -34,6 +31,7 @@ Demonstrates:
 * Web Scraping/Scrapers/Slurp
 * PHP Regex
 * preg_match_all()
+* PHP require_once()
 
 Tags:
 ES6, arrow functions, PHP variables, Heredoc

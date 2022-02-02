@@ -1,10 +1,10 @@
 /*
-Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Project Name:   EHW CODE_LANG Demo: LONG_DEMO_NAME
 Main Prj File:  controller.php
 
 This Filename:  ehw.lib.js
-Date Created:   01/19/22
-Date Updated:   01/31/22
+Date Created:   02/02/22
+Date Updated:   --
 Programmer:     Eric L. Hepperle
 
 File Version:    1.00.00

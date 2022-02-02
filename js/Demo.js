@@ -1,26 +1,23 @@
 /*
-Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Project Name:   EHW CODE_LANG Demo: LONG_DEMO_NAME
 Main Prj File:  controller.php
 
 This Filename:  Demo.js
-Date Created:   01/19/22
-Date Updated:   01/28/22
+Date Created:   02/02/22
+Date Updated:   --
 Programmer:     Eric L. Hepperle
 
 File Version:    1.00.00
 
 File Purpose:
   This JavaScript file contains the main "business logic" and primary
-  mechanics of the current project. This demo remotely grabs all images
-  from a given search url for LinkedIn Learning courses and displays
-  as image gallery.
+  mechanics of the current project. This demo [DESCRIBE WHAT IT DOES].
 
 TAGS:   JavaScript, ES6, DOM Manipulation, App, Web Scraping, Scraper,
          Slurp, Eric L. Hepperle, Eric Hepperle
 
 Usage:
-  Enter any valid search string into the "search" field and press "Submit"
-  to perform the search. Results will display in same page.
+  Usage goes here.
 
 Sample results: 
 --
@@ -28,7 +25,6 @@ Sample results:
 Requires:
   * controller.php
   * Browser
-  * LinkedIn account (must be logged in on the same browser session)
     
 Demonstrates:
   * Vanilla JavaScript

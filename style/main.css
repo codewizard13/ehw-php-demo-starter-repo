@@ -1,0 +1,112 @@
+/*
+Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Main Prj File:  controller.php
+
+This Filename:  main.css
+Date Created:   11/29/22
+Date Updated:   01/28/22
+Programmer:     Eric L. Hepperle
+
+File Version:    1.00.00
+
+File Purpose: 
+  MAIN Styles for this project; Styles for controller.php.
+
+Tags:   Eric Hepperle, JavaScript, ES6, DOM Manipulation, App
+*/
+
+/* COLORS:
+----------------------------
+#ffe9ec => light pink for error background
+
+Demo Palette:
+(From: http://www.colourlovers.com/palette/974510/Three_Druids)
+
+#73D18B - green aura
+#30CF84 - nature force (green)
+#0B998B - Fresh Sea (dark turquoise)
+#433659 - interrupted (deep purple)
+#1A101F - purpura 02 (black-purple)
+
+#000000 - black;
+#ffffff - white;
+#1e1e1e - light-gray;
+*/
+
+/* IMPORTS
+----------------------------
+(Any imported files must be in the same folder as (this) one.)
+@import 'palette.less';
+@import 'mixins.less';
+@import 'elements.less';
+*/
+@import '_curl_page.css';
+@import '_search_form.css';
+
+html * {
+    box-sizing: border-box;
+}
+
+#wrapper {
+    margin: 0 auto;
+    background: #536e1d;
+    max-width: 1024px;
+    border: solid 1px #898484;
+    padding: 1em;
+    border-radius: .6rem;
+}
+#ehw-top-head {
+    color: white;
+    font-family: Roboto, 'Arial Rounded MT', 'Gill Sans', Arial, Tahoma, sans-serif;
+}
+#ehw-top-head h2 {
+    color: #c3e1a6;    
+}
+#ehw-top-head > p {
+    line-height: .3rem
+}
+#ehw-top-head .property {
+    opacity: .5;
+    font-weight: 400;
+}
+
+main {
+    background: #fffbe3;
+    min-height: 2em;
+    border: solid gray 2px;
+    padding: .4em 1em;
+    overflow: hidden;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    font-size: .8rem;
+
+}
+.ehw-code pre {
+    color: green;
+    background: #f9f9f9;
+    padding: .6rem;
+    border: solid 1px;
+    border-radius: .6rem;
+}
+#ehw-content {
+    min-height: 20px;
+    background: rgb(255, 255, 179);
+    padding: 1em;
+    max-width: 1024px;
+    width: 80vw;
+    border: solid gray;
+    border-radius: 0.3rem;
+    margin: 0px auto;
+    margin-bottom: 1em;
+    box-shadow: 2px 2px 2px 1px lightgrey;    
+}
+#ehw-content h4 {
+    margin-top: 0;
+}
+
+#hidden-div {
+	background: rgba(255, 165, 0, .3);
+	width: 80%;
+	border: solid 3px #333;
+	min-height: 20px;
+    display: none;
+}

@@ -1,0 +1,40 @@
+/*
+Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Main Prj File:  controller.php
+
+This Filename:  _search_form.css
+Date Created:   01/30/22
+Date Updated:   --
+Programmer:     Eric L. Hepperle
+
+File Version:    1.00.00
+
+File Purpose: 
+  Styles for search form.
+*/
+
+#search-form {
+    background:rgb(187, 204, 204);
+    margin: 1rem;
+    border-radius: .3rem;
+    padding: .3rem .6rem;
+
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr;
+    grid-column-gap: .3rem;
+}
+
+#search-form p {
+    margin: .2rem;
+    align-self: end;
+}
+
+#search-form p input {
+    width: 100%;
+}
+
+#search-form p label {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}

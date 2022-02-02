@@ -1,19 +1,16 @@
 <!--
-Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Project Name:   EHW CODE_LANGE Demo: LONG_DEMO_NAME
 Main Prj File:  controller.php
 
-This Filename:  curl_slurp_page.php
-Date Created:   01/26/22
-Date Updated:   01/29/22
+This Filename:  some_inc_file_name.php
+Date Created:   02/02/22
+Date Updated:   --
 Programmer:     Eric L. Hepperle
 
 File Version:    1.00.00
 
 File Purpose:
-  Single page demo for testing slurping / web scraping
-  with PHP cURL module. The demo grabs all images from
-  a given search url for LinkedIn Learning courses. It
-  then formats and displays all the images in a grid.
+  Single page demo for ....
 -->
 
 <?php

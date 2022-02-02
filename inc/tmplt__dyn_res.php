@@ -1,9 +1,9 @@
 <!--
-Project Name:   EHW PHP Demo: Scrape LinkedIn Course List Images
+Project Name:   EHW CODE_LANG Demo: LONG_DEMO_NAME
 Main Prj File:  controller.php
 
-This Filename:  tmplt__dyn_res.php
-Date Created:   01/31/22
+This Filename:  tmplt__template_name.php
+Date Created:   02/02/22
 Date Updated:   --
 Programmer:     Eric L. Hepperle
 
@@ -11,7 +11,6 @@ File Version:    1.00.00
 
 File Purpose:
   Dynamic PHP View Page template for what output should look like.
-  This
 -->
 
 <style>

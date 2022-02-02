@@ -1,5 +1,5 @@
 <!--
-Project Name:   EHW CODE_LANGE Demo: LONG_DEMO_NAME
+Project Name:   EHW CODE_LANG Demo: LONG_DEMO_NAME
 Main Prj File:  controller.php
 
 This Filename:  some_inc_file_name.php
